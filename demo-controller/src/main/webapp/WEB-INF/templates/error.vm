@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <title>登录失败</title>
+</head>
+<body>
+<div>
+    $message&nbsp;<a href="${pageContext.request.contextPath}/login.html">返回</a>
+</div>
+</body>
+</html>
